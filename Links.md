@@ -1,5 +1,9 @@
 # Links.md
 
+
+*[Install ros_kinetic](http://qiita.com/Suna/items/ef2243267f51a1482b14 "Install")  
+ROS Kineticのインストールの仕方が書いてあります
+
 * [/ROS/Introduction](http://wiki.ros.org/ja/ROS/Introduction "Introduction")    
 ROS公式ページの概要のところ  
 是非ともこのページをさらっと読むことから始めてほしいです。難しいこと書いてるなあとは感じるでしょうけど  
